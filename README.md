@@ -27,14 +27,11 @@
 ---
 
 <h2 align="center">
-  🌟 Top Repositories 🌟
+  🌟 Top Repository 🌟
 </h2>
 
 <h3 align="center"><a href="https://github.com/Lunahax/VAL0ADER">VAL0ADER</a></h3>
 <p align="center">VALORANT Aimbot, ESP, Visuals & more</p>
-<br>
-<h3 align="center"><a href="https://github.com/Lunahax/ETERNAL">ETERNAL</a></h3>
-<p align="center">VALORANT Aimbot + ESP</p>
 
 ---
 
