@@ -20,7 +20,7 @@
   🌟 Top Repository 🌟
 </h2>
 
-<h3 align="center"><a href="https://github.com/Lunahax/VAL0ADER">VAL0ADER</a></h3>
+<h3 align="center"><a href="https://github.com/Lunahax/VALORANT-EXTERNAL">VALORANT-EXTERNAL</a></h3>
 <p align="center">VALORANT Aimbot, ESP, Visuals & more</p>
 
 ---
