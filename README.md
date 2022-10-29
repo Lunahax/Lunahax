@@ -26,3 +26,40 @@
 ---
 
 <p>&nbsp;<a href="https://github.com/Lunahax/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></a></p>
+
+---
+
+
+<h2 align="center">
+  ☄️ Services ☄️
+</h2>
+
+<p align="center">Stuff I code</p>
+
+<h3 align="center">
+Discord Bots
+</h3>
+
+<h3 align="center">
+Twitch Bots
+</h3>
+
+<h3 align="center">
+Game Cheats
+</h3>
+
+<h3 align="center">
+(Partly) Useful Software
+</h3>
+
+<h3 align="center">
+Spoofers
+</h3>
+
+<h3 align="center">
+Other Random Stuff
+</h3>
+
+---
+
+<p align="center">Please keep in mind that everything I do is for educational purposes</p>
