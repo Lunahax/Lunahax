@@ -12,6 +12,10 @@
 
 ---
 
+<h2 align="center"><a href="https://discord.gg/yu8mK4vmJ3">Discord Server</a></h2>
+
+---
+
 <a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
 
 ---
