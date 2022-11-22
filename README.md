@@ -8,6 +8,15 @@ align="center" enjoyer
 </kbd>
 </p>
 
+---
+
+<a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
+
+---
+
+<h2 align="center">
+Main languages
+</h2>
 <h2 align="center">
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/javascript-303030?style=for-the-badge&logo=javascript&logoColor=white"></a>
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/python-303030?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -18,34 +27,35 @@ align="center" enjoyer
 
 ---
 
-<a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
+<h2 align="center">
+Top repositories
+</h2>
+
+| Repository | Stars | Downloads |
+| -------- | -------- | -------- |
+| **[VALORANT-EXTERNAL](https://github.com/Lunahax/VALORANT-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/VALORANT-EXTERNAL?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/VALORANT-EXTERNAL/total?color=303030&label=%20&style=for-the-badge) |
+| **[Password-Generator](https://github.com/Lunahax/Password-Generator)** | ![stars](https://img.shields.io/github/stars/lunahax/Password-Generator?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/Password-Generator/total?color=303030&label=%20&style=for-the-badge) |
 
 ---
 
 <h2 align="center">
-🌌 Top Repositories 🌌
+GitHub stats
 </h2>
-
-| Repository | Repository Stars | Release Downloads |
-| -------- | -------- | -------- |
-| **[VALORANT-EXTERNAL](https://github.com/Lunahax/VALORANT-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/VALORANT-EXTERNAL?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/VALORANT-EXTERNAL/total?color=303030&label=%20&style=for-the-badge) |
-| **[OVERWATCH-EXTERNAL](https://github.com/Lunahax/OVERWATCH-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/OVERWATCH-EXTERNAL?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/OVERWATCH-EXTERNAL/total?color=303030&label=%20&style=for-the-badge) |
-| **[Password-Generator](https://github.com/Lunahax/Password-Generator)** | ![stars](https://img.shields.io/github/stars/lunahax/Password-Generator?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/Password-Generator/total?color=303030&label=%20&style=for-the-badge) |
-
----
 
 <p>&nbsp;<a href="https://github.com/Lunahax/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></a></p>
 
 ---
 
-
 <h2 align="center">
-☄️ Stuff I code ☄️
+Stuff I code
 </h2>
 
 <p align="center">
-As I'm often pretty bored and not in the mood to play games, I code the most random stuff. This stuff includes (but is not limited to):</br>
-Discord Bots, Twitch Bots, Game Cheats, (Partly) Useful Software, Spoofers & Minigames
+- 🤖 Discord & Twitch Bots<br>
+- 🎮 Game Cheetos<br>
+- 🔗 All-purpose Software<br>
+- 🃏 Minigames<br>
+</p>
 
 ---
 
