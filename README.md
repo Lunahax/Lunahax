@@ -68,7 +68,7 @@ Socials
 
 <p align="center">
 <a href="https://discord.com/users/560152899213066260"><img src="https://img.shields.io/badge/Discord-Alune%230962-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff"></a>  
-<a href="https://discord.gg/yu8mK4vmJ3"><img src="https://img.shields.io/badge/Lunaware-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff"></a>  
+<a href="https://discord.gg/cQCkK35FT2"><img src="https://img.shields.io/badge/Lunaware-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff"></a>  
 </p>
 
 ---
