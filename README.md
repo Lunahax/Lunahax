@@ -34,6 +34,7 @@ Repositories
 | Repository | Stars | Downloads |
 | -------- | -------- | -------- |
 | **[VALORANT-EXTERNAL](https://github.com/Lunahax/VALORANT-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/VALORANT-EXTERNAL?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/VALORANT-EXTERNAL/total?color=303030&label=%20&style=for-the-badge) |
+| **[EXTERNAL-V2](https://github.com/Lunahax/VALORANT-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/EXTERNAL-V2?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/badge/0-303030?style=for-the-badge) |
 | **[Lunahax](https://github.com/Lunahax/Lunahax)** | ![stars](https://img.shields.io/github/stars/lunahax/Lunahax?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/badge/NFD-303030?style=for-the-badge) |
 | **[OVERWATCH-EXTERNAL](https://github.com/Lunahax/OVERWATCH-EXTERNAL)** | ![stars](https://img.shields.io/github/stars/lunahax/OVERWATCH-EXTERNAL?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/OVERWATCH-EXTERNAL/total?color=303030&label=%20&style=for-the-badge) |
 | **[Password-Generator](https://github.com/Lunahax/Password-Generator)** | ![stars](https://img.shields.io/github/stars/lunahax/Password-Generator?color=303030&label=%20&style=for-the-badge) | ![downloads](https://img.shields.io/github/downloads/lunahax/Password-Generator/total?color=303030&label=%20&style=for-the-badge) |
